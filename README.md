@@ -1,2 +1,2 @@
-# ChineseTensorFlowDoc
-中文TensorFlow文档
+# TensorFlow2中文文档
+TensorFlow2中文文档
